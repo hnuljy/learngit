@@ -1,4 +1,1 @@
-Git is a version control system.
-Git is free software.
-hello，world！！！
-你好
+修改https方式为ssh：git remote set-url origin git@github.com:hnuljy/learngit.git
